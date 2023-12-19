@@ -25,18 +25,19 @@
 
   ### Denoiser Result with Different Parameters
   Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 5
-  ![]
+  ![]()
   Median Filter Kernel Size: 9, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 5
 
-  ![]
+  ![]()
   Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 10, Sharpening Filter Strength: 5
-![]()
-
-Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 10
-![]()
-Initial Approach (Simple Gaussian Blur)
-![]()
+  ![]()
+  
+  Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 10
+  ![]()
+  Initial Approach (Simple Gaussian Blur)
+  ![]()
 
 
   ### Demo for all other main features
-    ![](https://github.com/uluyek/senior-capstone-project/blob/main/Other%20Features.gif)
+  
+  ![](https://github.com/uluyek/senior-capstone-project/blob/main/Other%20Features.gif)
