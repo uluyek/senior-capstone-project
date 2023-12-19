@@ -39,4 +39,4 @@ Initial Approach (Simple Gaussian Blur)
 
 
   ### Demo for all other main features
-    ![]()
+    ![](https://github.com/uluyek/senior-capstone-project/blob/main/Other%20Features.gif)
