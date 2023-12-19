@@ -21,20 +21,30 @@
   
   #### Advanced Denoising Pipeline
   Image quality is paramount for accurate diagnosis and analysis. The denoising pipeline I developed combines median filtering with anisotropic diffusion filtering to reduce noise while preserving critical structural details. This results in clearer and more reliable images, aiding in the detection and diagnosis of medical conditions.
-  ![Denoising Pipeline]()
+  ![Denoising Pipeline](https://github.com/uluyek/senior-capstone-project/blob/main/image/Denoising%20Pipeline.jpg)
 
   ### Denoiser Result with Different Parameters
+  #### Base Setting
   Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 5
   ![]()
-  Median Filter Kernel Size: 9, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 5
 
+  #### Setting 1
+  Median Filter Kernel Size: 9, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 5
   ![]()
+
+  #### Setting 2
   Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 10, Sharpening Filter Strength: 5
   ![]()
-  
+
+  #### Setting 3
   Median Filter Kernel Size: 5, Anisotropic Diffusion Iteration: 5, Sharpening Filter Strength: 10
   ![]()
-  Initial Approach (Simple Gaussian Blur)
+
+  #### Ideal Setting 3
+  Median Filter Kernel Size: 7, Anisotropic Diffusion Iteration: 10, Sharpening Filter Strength: 5
+  ![]()
+  
+  #### Initial Approach (Simple Gaussian Blur)
   ![]()
 
 
