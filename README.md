@@ -1,5 +1,4 @@
-  # Keyu Lu - CIS 4970 - Senior Capstone Project
-  ## Medical Imaging Visualization Tool
+  # Keyu Lu - Medical Imaging Visualization Tool
   
   This application provides a sophisticated platform for the visualization and analysis of medical imaging data. Designed to assist medical professionals, researchers, and educators, it leverages the Visualization Toolkit (VTK) for high-quality imaging capabilities.
   ### Main Features
